@@ -71,4 +71,3 @@ class GamePole:
 
 
 game = GamePole(10, 12)
-game.show()
